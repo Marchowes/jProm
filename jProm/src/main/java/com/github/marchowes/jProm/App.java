@@ -1,4 +1,4 @@
-package com.marchowes.jProm;
+package com.github.marchowes.jProm;
 
 /**
  * Hello world!
