@@ -1,4 +1,4 @@
-package com.marchowes.jProm;
+package com.github.marchowes.jProm;
 
 import static org.junit.Assert.assertTrue;
 
